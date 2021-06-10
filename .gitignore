@@ -1,0 +1,5 @@
+# Ignore the datasets
+*.mat
+
+# Ignore the folder of checkpoints of Jupyter Notebook
+.ipynb_checkpoints
